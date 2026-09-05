@@ -27,5 +27,3 @@ Protect Claude Code plan windows with local usage caching, clear warnings and ap
 - Document setup, behaviour and trade-offs clearly.
 - Test executable work, including failure paths and guardrails.
 - Keep private data local wherever the problem allows it.
-
-Studio Mist is building in public toward a focused catalogue of independent developer products.
