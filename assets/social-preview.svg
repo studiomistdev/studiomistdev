@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">Studio Mist</title>
+  <desc id="desc">Architectural Studio Mist banner for an independent developer-product studio working across software, design and AI.</desc>
+  <style>
+    text { font-family: "Kumbh Sans", sans-serif; font-variation-settings: "YOPQ" 300; }
+  </style>
+  <rect width="1280" height="640" fill="#0c4a56"/>
+  <g stroke="#b7bfd6" stroke-width="1" opacity="0.16">
+    <path d="M0 80H1280M0 160H1280M0 240H1280M0 320H1280M0 400H1280M0 480H1280M0 560H1280"/>
+    <path d="M80 0V640M160 0V640M240 0V640M320 0V640M400 0V640M480 0V640M560 0V640M640 0V640M720 0V640M800 0V640M880 0V640M960 0V640M1040 0V640M1120 0V640M1200 0V640"/>
+  </g>
+  <rect x="72" y="72" width="8" height="496" fill="#e0218a"/>
+  <text x="120" y="126" fill="#00a0bc" font-size="22" font-weight="650" letter-spacing="3">INDEPENDENT PRODUCT STUDIO</text>
+  <text x="120" y="258" fill="#b7bfd6" font-size="92" font-weight="780" letter-spacing="-2">Studio Mist</text>
+  <path d="M120 306H708" stroke="#027f86" stroke-width="3"/>
+  <text x="120" y="366" fill="#f493bf" font-size="30" font-weight="470">Practical developer tools and</text>
+  <text x="120" y="408" fill="#f493bf" font-size="30" font-weight="470">workflow systems.</text>
+  <text x="120" y="522" fill="#b7bfd6" font-size="18" font-weight="600" letter-spacing="2.5">SOFTWARE / DESIGN / AI</text>
+  <g transform="translate(820 94)">
+    <rect x="0" y="0" width="350" height="452" fill="#1c3a6b" stroke="#b7bfd6" stroke-width="2"/>
+    <path d="M24 56H326M24 112H326M24 168H326M24 224H326M24 280H326M24 336H326M24 392H326M80 24V428M136 24V428M192 24V428M248 24V428M304 24V428" stroke="#b7bfd6" stroke-width="1" opacity="0.25"/>
+    <rect x="32" y="48" width="112" height="112" fill="#e0218a"/>
+    <rect x="206" y="48" width="112" height="112" fill="#00a0bc"/>
+    <rect x="119" y="292" width="112" height="112" fill="#f493bf"/>
+    <path d="M144 104H206M262 160V236H175V292M88 160V236H175" fill="none" stroke="#b7bfd6" stroke-width="8"/>
+    <circle cx="175" cy="236" r="20" fill="#027f86" stroke="#b7bfd6" stroke-width="6"/>
+    <text x="88" y="116" fill="#1c3a6b" font-size="20" font-weight="750" text-anchor="middle">S</text>
+    <text x="262" y="116" fill="#1c3a6b" font-size="20" font-weight="750" text-anchor="middle">D</text>
+    <text x="175" y="360" fill="#1c3a6b" font-size="20" font-weight="750" text-anchor="middle">AI</text>
+  </g>
+</svg>

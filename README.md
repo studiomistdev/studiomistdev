@@ -1,3 +1,5 @@
+![Studio Mist, independent product studio](assets/social-preview.png)
+
 # Studio Mist
 
 **Practical developer tools for better creative and technical work.**

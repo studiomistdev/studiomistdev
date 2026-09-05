@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "Kumbh Sans";
+  src: url("./fonts/KumbhSans-YOPQ-wght.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 100 900;
+}
+
+:root {
+  --studio-mist-pink: #f493bf;
+  --studio-mist-cyan: #00a0bc;
+  --studio-mist-navy: #1c3a6b;
+  --studio-mist-periwinkle: #b7bfd6;
+  --studio-mist-teal: #027f86;
+  --studio-mist-deep-teal: #0c4a56;
+  --studio-mist-hot-pink: #e0218a;
+  --studio-mist-font: "Kumbh Sans", sans-serif;
+}
