@@ -15,7 +15,7 @@ The bundled font is distributed under the SIL Open Font License in [`fonts/OFL.t
 
 ## Palette
 
-Use only these seven brand colours in Studio Mist identity work:
+Use these seven brand colours, plus white for primary headline text:
 
 | Token | Value | Role |
 |---|---|---|
@@ -26,13 +26,14 @@ Use only these seven brand colours in Studio Mist identity work:
 | Teal | `#027f86` | secondary structure |
 | Deep teal | `#0c4a56` | alternate dark field |
 | Hot pink | `#e0218a` | primary accent and focal signal |
+| White | `#ffffff` | primary headline text only |
 
 ## Composition
 
 - Use an architectural grid with visible alignment, fine rules and measured spacing.
 - Prefer modular diagrams, frames and structural line work over decorative illustration.
 - Keep corners square unless a functional object requires a small radius.
-- Use one dominant dark field, one light structural colour and one or two signal accents.
+- Use one dominant dark field, white primary headlines, one light structural colour and one or two signal accents.
 - Do not use gradients, drop shadows, photography or colours outside the palette.
 - Keep copy short and let scale create hierarchy.
 
