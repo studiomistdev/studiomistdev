@@ -2,30 +2,30 @@
 
 # Studio Mist
 
-**Practical developer tools for better creative and technical work.**
+**Small, useful tools for real creative and technical work.**
 
-Studio Mist is an independent product studio building practical developer tools and workflow systems at the intersection of software, design and AI.
+Studio Mist makes developer tools for the awkward parts of everyday work: the things that are repetitive, easy to lose track of or harder than they need to be.
 
-The work combines hands-on engineering and product design with an artist's attention to clarity, composition and restraint. Each release starts with a real point of friction and turns it into a focused tool that is documented, testable and useful outside its original context.
+The work sits between software, design and AI, with an artist's eye for clarity and form. Every tool here began with a real problem, then got pulled out of its original setup, documented properly and tested where there is executable code.
 
 ## Current tools
 
 ### [Design Style Profiler](https://github.com/studiomistdev/design-style-profiler)
 
-Build an evidence-based personal design guide from the work you use, keep, change and reject.
+Turn the work you use, keep, change and reject into design rules an AI can follow.
 
 ### [Writing Style Profiler](https://github.com/studiomistdev/writing-style-profiler)
 
-Build and calibrate an evidence-based writing voice from your own emails, messages and documents.
+Build a voice guide from your own emails, messages and documents, then test it against your judgement.
 
 ### [Claude Rate Limit Guard](https://github.com/studiomistdev/claude-rate-limit-guard)
 
-Protect Claude Code plan windows with local usage caching, clear warnings and approval-gated overrides.
+Keep an eye on Claude Code's plan limits, warn before the window gets tight and require approval before expensive work continues.
 
 ## How Studio Mist builds
 
-- Start with real workflow friction.
-- Keep the tool focused enough to understand and adapt.
-- Document setup, behaviour and trade-offs clearly.
-- Test executable work, including failure paths and guardrails.
-- Keep private data local wherever the problem allows it.
+- Start with a real annoyance.
+- Make the smallest tool that solves it properly.
+- Keep the setup and trade-offs visible.
+- Test the parts that can fail.
+- Keep private data local wherever possible.
