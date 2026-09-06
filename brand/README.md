@@ -15,7 +15,7 @@ The bundled font is distributed under the SIL Open Font License in [`fonts/OFL.t
 
 ## Palette
 
-Use these seven brand colours, plus white for primary headline text:
+Use these seven brand colours, plus white for primary headline text and small high-contrast labels or icons on colour blocks:
 
 | Token | Value | Role |
 |---|---|---|
@@ -26,7 +26,7 @@ Use these seven brand colours, plus white for primary headline text:
 | Teal | `#027f86` | secondary structure |
 | Deep teal | `#0c4a56` | alternate dark field |
 | Hot pink | `#e0218a` | primary accent and focal signal |
-| White | `#ffffff` | primary headline text only |
+| White | `#ffffff` | primary headlines and high-contrast labels or icons |
 
 ## Composition
 

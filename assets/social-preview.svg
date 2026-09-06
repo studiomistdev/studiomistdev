@@ -16,7 +16,6 @@
   <path d="M120 306H708" stroke="#027f86" stroke-width="3"/>
   <text x="120" y="366" fill="#f493bf" font-size="30" font-weight="470">Small, useful tools for real</text>
   <text x="120" y="408" fill="#f493bf" font-size="30" font-weight="470">creative and technical work.</text>
-  <text x="120" y="522" fill="#b7bfd6" font-size="18" font-weight="600" letter-spacing="2.5">STUDIO MIST / SOFTWARE / DESIGN / AI</text>
   <g transform="translate(820 94)">
     <rect x="0" y="0" width="350" height="452" fill="#1c3a6b" stroke="#b7bfd6" stroke-width="2"/>
     <path d="M24 56H326M24 112H326M24 168H326M24 224H326M24 280H326M24 336H326M24 392H326M80 24V428M136 24V428M192 24V428M248 24V428M304 24V428" stroke="#b7bfd6" stroke-width="1" opacity="0.25"/>
@@ -25,8 +24,17 @@
     <rect x="119" y="292" width="112" height="112" fill="#f493bf"/>
     <path d="M144 104H206M262 160V236H175V292M88 160V236H175" fill="none" stroke="#b7bfd6" stroke-width="8"/>
     <circle cx="175" cy="236" r="20" fill="#027f86" stroke="#b7bfd6" stroke-width="6"/>
-    <text x="88" y="116" fill="#1c3a6b" font-size="20" font-weight="750" text-anchor="middle">S</text>
-    <text x="262" y="116" fill="#1c3a6b" font-size="20" font-weight="750" text-anchor="middle">D</text>
-    <text x="175" y="360" fill="#1c3a6b" font-size="20" font-weight="750" text-anchor="middle">AI</text>
+    <g transform="translate(70 66) scale(1.5)" fill="none" stroke="#ffffff" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+      <path d="m18 16 4-4-4-4"/><path d="m6 8-4 4 4 4"/><path d="m14.5 4-5 16"/>
+    </g>
+    <text x="88" y="144" fill="#ffffff" font-size="17" font-weight="750" text-anchor="middle">S</text>
+    <g transform="translate(244 66) scale(1.5)" fill="none" stroke="#ffffff" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="12" cy="12" r="9"/><path d="m15 9-2 6-6 2 2-6 6-2Z"/>
+    </g>
+    <text x="262" y="144" fill="#ffffff" font-size="17" font-weight="750" text-anchor="middle">D</text>
+    <g transform="translate(157 310) scale(1.5)" fill="none" stroke="#ffffff" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+      <path d="m12 3-1.9 5.1L5 10l5.1 1.9L12 17l1.9-5.1L19 10l-5.1-1.9L12 3Z"/><path d="M5 3v4M3 5h4M19 17v4M17 19h4"/>
+    </g>
+    <text x="175" y="388" fill="#ffffff" font-size="17" font-weight="750" text-anchor="middle">AI</text>
   </g>
 </svg>
