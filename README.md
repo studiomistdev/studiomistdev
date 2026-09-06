@@ -2,7 +2,7 @@
 
 # Studio Mist
 
-**Small, useful tools for real creative and technical work.**
+**Bespoke and useful tools for real creative and technical work.**
 
 Studio Mist makes developer tools for the awkward parts of everyday work: the things that are repetitive, easy to lose track of or harder than they need to be.
 
